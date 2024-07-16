@@ -9,10 +9,10 @@ for(let i=1; i<=10; i++){
 }
 
 task3
-let i =0;
-while (i<=10) {
-    console.log(i=(i+1));
-    i++;
+let j =0;
+while (j<=10) {
+    console.log(j=(j+1));
+    j++;
 
 }
 
@@ -49,13 +49,14 @@ if (number === 0) {
 console.log(`The factorial of ${number} is ${result}`);
 
 task7
-let rows;
-let column;
-for(rows=1; rows<=5; rows++){
-    for(column=1; column<=5; column++){
-        console.log("*", " ")
-    }
-}
+//not a correct answer
+// let rows;
+// let column;
+// for(rows=1; rows<=5; rows++){
+//     for(column=1; column<=5; column++){
+//         console.log("*", " ")
+//     }
+// }
 
 task8
 for(let i =1; i<=10; i++){
